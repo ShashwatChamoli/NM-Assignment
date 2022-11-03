@@ -21,7 +21,7 @@ int main()
             }
         }
         if(m==0)
-        {cout<<i<<endl;}
+        {cout<<i<<"   ";}
     }
     return 0;
 }
